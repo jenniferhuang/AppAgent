@@ -1,0 +1,1 @@
+{'tap': 'The UI element initiates the sign-in process by bringing up a new interface where the user can enter their credentials.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

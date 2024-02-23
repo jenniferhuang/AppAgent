@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a button to proceed to the next step in the sign-in process, offering alternative methods for authentication.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

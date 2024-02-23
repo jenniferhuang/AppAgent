@@ -1,0 +1,1 @@
+{'tap': 'The video button starts a video call.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

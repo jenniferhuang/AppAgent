@@ -1,0 +1,1 @@
+{'tap': 'The UI element initiates the video meeting with the selected audio option and transitions the user to the main meeting interface with controls to manage the meeting.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

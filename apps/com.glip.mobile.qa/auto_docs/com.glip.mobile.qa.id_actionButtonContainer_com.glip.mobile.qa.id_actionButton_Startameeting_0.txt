@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a button to start or initiate a new video meeting.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

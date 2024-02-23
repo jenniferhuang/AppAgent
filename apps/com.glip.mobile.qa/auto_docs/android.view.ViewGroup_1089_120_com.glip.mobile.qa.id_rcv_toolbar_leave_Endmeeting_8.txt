@@ -1,0 +1,1 @@
+{'tap': 'The UI element brings up a confirmation dialog to end or leave the ongoing video meeting.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}
